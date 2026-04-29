@@ -1,0 +1,290 @@
+{
+  "ultima_coleta_anp": "2026-04-25",
+  "gerado_em": "2026-04-29T19:49:43",
+  "fonte": "fallback_embutido",
+  "regioes": [
+    {
+      "nome": "Norte",
+      "media_gasolina": 6.21,
+      "media_etanol": 4.11,
+      "media_diesel": 5.78,
+      "estados": [
+        {
+          "id_estado": "AM",
+          "media_gasolina": 6.34,
+          "tendencia_gasolina": "subida",
+          "media_etanol": 4.2,
+          "tendencia_etanol": "estavel",
+          "media_diesel": 5.91,
+          "tendencia_diesel": "subida"
+        },
+        {
+          "id_estado": "PA",
+          "media_gasolina": 6.08,
+          "tendencia_gasolina": "estavel",
+          "media_etanol": 4.02,
+          "tendencia_etanol": "descida",
+          "media_diesel": 5.65,
+          "tendencia_diesel": "estavel"
+        },
+        {
+          "id_estado": "AC",
+          "media_gasolina": 6.45,
+          "tendencia_gasolina": "subida",
+          "media_etanol": 4.3,
+          "tendencia_etanol": "estavel",
+          "media_diesel": 5.99,
+          "tendencia_diesel": "subida"
+        },
+        {
+          "id_estado": "RO",
+          "media_gasolina": 6.1,
+          "tendencia_gasolina": "estavel",
+          "media_etanol": 4.05,
+          "tendencia_etanol": "estavel",
+          "media_diesel": 5.72,
+          "tendencia_diesel": "estavel"
+        },
+        {
+          "id_estado": "RR",
+          "media_gasolina": 6.38,
+          "tendencia_gasolina": "subida",
+          "media_etanol": 4.22,
+          "tendencia_etanol": "estavel",
+          "media_diesel": 5.95,
+          "tendencia_diesel": "subida"
+        },
+        {
+          "id_estado": "AP",
+          "media_gasolina": 6.28,
+          "tendencia_gasolina": "estavel",
+          "media_etanol": 4.15,
+          "tendencia_etanol": "estavel",
+          "media_diesel": 5.8,
+          "tendencia_diesel": "estavel"
+        },
+        {
+          "id_estado": "TO",
+          "media_gasolina": 5.98,
+          "tendencia_gasolina": "descida",
+          "media_etanol": 3.95,
+          "tendencia_etanol": "descida",
+          "media_diesel": 5.6,
+          "tendencia_diesel": "estavel"
+        }
+      ]
+    },
+    {
+      "nome": "Nordeste",
+      "media_gasolina": 5.98,
+      "media_etanol": 3.89,
+      "media_diesel": 5.54,
+      "estados": [
+        {
+          "id_estado": "BA",
+          "media_gasolina": 6.01,
+          "tendencia_gasolina": "subida",
+          "media_etanol": 3.95,
+          "tendencia_etanol": "estavel",
+          "media_diesel": 5.58,
+          "tendencia_diesel": "estavel"
+        },
+        {
+          "id_estado": "CE",
+          "media_gasolina": 5.92,
+          "tendencia_gasolina": "estavel",
+          "media_etanol": 3.8,
+          "tendencia_etanol": "descida",
+          "media_diesel": 5.49,
+          "tendencia_diesel": "estavel"
+        },
+        {
+          "id_estado": "PE",
+          "media_gasolina": 5.95,
+          "tendencia_gasolina": "estavel",
+          "media_etanol": 3.85,
+          "tendencia_etanol": "estavel",
+          "media_diesel": 5.52,
+          "tendencia_diesel": "estavel"
+        },
+        {
+          "id_estado": "MA",
+          "media_gasolina": 6.05,
+          "tendencia_gasolina": "subida",
+          "media_etanol": 3.98,
+          "tendencia_etanol": "estavel",
+          "media_diesel": 5.65,
+          "tendencia_diesel": "subida"
+        },
+        {
+          "id_estado": "PB",
+          "media_gasolina": 5.88,
+          "tendencia_gasolina": "estavel",
+          "media_etanol": 3.75,
+          "tendencia_etanol": "estavel",
+          "media_diesel": 5.44,
+          "tendencia_diesel": "estavel"
+        },
+        {
+          "id_estado": "RN",
+          "media_gasolina": 5.9,
+          "tendencia_gasolina": "estavel",
+          "media_etanol": 3.78,
+          "tendencia_etanol": "estavel",
+          "media_diesel": 5.47,
+          "tendencia_diesel": "estavel"
+        },
+        {
+          "id_estado": "AL",
+          "media_gasolina": 5.97,
+          "tendencia_gasolina": "subida",
+          "media_etanol": 3.88,
+          "tendencia_etanol": "estavel",
+          "media_diesel": 5.55,
+          "tendencia_diesel": "estavel"
+        },
+        {
+          "id_estado": "PI",
+          "media_gasolina": 6.02,
+          "tendencia_gasolina": "estavel",
+          "media_etanol": 3.92,
+          "tendencia_etanol": "estavel",
+          "media_diesel": 5.62,
+          "tendencia_diesel": "estavel"
+        },
+        {
+          "id_estado": "SE",
+          "media_gasolina": 5.94,
+          "tendencia_gasolina": "estavel",
+          "media_etanol": 3.82,
+          "tendencia_etanol": "estavel",
+          "media_diesel": 5.5,
+          "tendencia_diesel": "estavel"
+        }
+      ]
+    },
+    {
+      "nome": "Centro-Oeste",
+      "media_gasolina": 5.77,
+      "media_etanol": 3.72,
+      "media_diesel": 5.42,
+      "estados": [
+        {
+          "id_estado": "DF",
+          "media_gasolina": 5.81,
+          "tendencia_gasolina": "estavel",
+          "media_etanol": 3.78,
+          "tendencia_etanol": "estavel",
+          "media_diesel": 5.45,
+          "tendencia_diesel": "estavel"
+        },
+        {
+          "id_estado": "GO",
+          "media_gasolina": 5.73,
+          "tendencia_gasolina": "descida",
+          "media_etanol": 3.66,
+          "tendencia_etanol": "estavel",
+          "media_diesel": 5.39,
+          "tendencia_diesel": "estavel"
+        },
+        {
+          "id_estado": "MT",
+          "media_gasolina": 5.79,
+          "tendencia_gasolina": "estavel",
+          "media_etanol": 3.72,
+          "tendencia_etanol": "descida",
+          "media_diesel": 5.44,
+          "tendencia_diesel": "estavel"
+        },
+        {
+          "id_estado": "MS",
+          "media_gasolina": 5.75,
+          "tendencia_gasolina": "estavel",
+          "media_etanol": 3.72,
+          "tendencia_etanol": "estavel",
+          "media_diesel": 5.4,
+          "tendencia_diesel": "estavel"
+        }
+      ]
+    },
+    {
+      "nome": "Sudeste",
+      "media_gasolina": 5.89,
+      "media_etanol": 3.68,
+      "media_diesel": 5.41,
+      "estados": [
+        {
+          "id_estado": "RJ",
+          "media_gasolina": 6.05,
+          "tendencia_gasolina": "estavel",
+          "media_etanol": 3.81,
+          "tendencia_etanol": "estavel",
+          "media_diesel": 5.62,
+          "tendencia_diesel": "subida"
+        },
+        {
+          "id_estado": "SP",
+          "media_gasolina": 5.74,
+          "tendencia_gasolina": "descida",
+          "media_etanol": 3.55,
+          "tendencia_etanol": "descida",
+          "media_diesel": 5.28,
+          "tendencia_diesel": "estavel"
+        },
+        {
+          "id_estado": "MG",
+          "media_gasolina": 5.88,
+          "tendencia_gasolina": "estavel",
+          "media_etanol": 3.62,
+          "tendencia_etanol": "estavel",
+          "media_diesel": 5.44,
+          "tendencia_diesel": "estavel"
+        },
+        {
+          "id_estado": "ES",
+          "media_gasolina": 5.89,
+          "tendencia_gasolina": "subida",
+          "media_etanol": 3.74,
+          "tendencia_etanol": "estavel",
+          "media_diesel": 5.3,
+          "tendencia_diesel": "estavel"
+        }
+      ]
+    },
+    {
+      "nome": "Sul",
+      "media_gasolina": 5.71,
+      "media_etanol": 3.61,
+      "media_diesel": 5.35,
+      "estados": [
+        {
+          "id_estado": "PR",
+          "media_gasolina": 5.68,
+          "tendencia_gasolina": "estavel",
+          "media_etanol": 3.57,
+          "tendencia_etanol": "descida",
+          "media_diesel": 5.31,
+          "tendencia_diesel": "estavel"
+        },
+        {
+          "id_estado": "RS",
+          "media_gasolina": 5.75,
+          "tendencia_gasolina": "estavel",
+          "media_etanol": 3.66,
+          "tendencia_etanol": "estavel",
+          "media_diesel": 5.39,
+          "tendencia_diesel": "estavel"
+        },
+        {
+          "id_estado": "SC",
+          "media_gasolina": 5.7,
+          "tendencia_gasolina": "estavel",
+          "media_etanol": 3.6,
+          "tendencia_etanol": "estavel",
+          "media_diesel": 5.35,
+          "tendencia_diesel": "estavel"
+        }
+      ]
+    }
+  ]
+}
